@@ -1,0 +1,4 @@
+com\bianca\Springboot\tutorial\controller\DepartmentControllerTest.class
+com\bianca\Springboot\tutorial\SpringBootTutorialApplicationTests.class
+com\bianca\Springboot\tutorial\service\DepartmentServiceTest.class
+com\bianca\Springboot\tutorial\repository\DepartmentRepositoryTest.class
